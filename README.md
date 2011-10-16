@@ -7,3 +7,8 @@ Visual Red Black Tree
 
 
 ![jredblacktree](http://www.vaibhavbajpai.com/images/projects/jredblacktree.png)
+
+Documents
+---------
+
+* [JAR](https://github.com/downloads/vbajpai/jredblacktree/jredblacktree.jar)
